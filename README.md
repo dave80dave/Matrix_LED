@@ -41,9 +41,6 @@ The project is designed to be **library-free**, using **direct SPI communication
 | D10        | CS / LOAD     |
 | D13        | CLK           |
 
-> ⚠️ **Important:**  
-> Make sure you connect **DIN**, not **DOUT**.  
-> DOUT is only used when chaining multiple matrix modules.
 
 ---
 
